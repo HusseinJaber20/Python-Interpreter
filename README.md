@@ -4,7 +4,7 @@ Wrote a grammar that recognizes the statements described below and generated its
 After obtaining the lexical analyzer and the parser, all the action routines needed to evaluate a given python code were written.
 
 # Tools
-1-ASM, to write the grammar.
+1-Antlr, to write the grammar.
 
 2-Java, to write the action routines.
 
